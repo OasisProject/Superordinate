@@ -34,5 +34,7 @@ Here are some things that run well from the very start in this highly opinionate
  * virtualbox
  * boxes
  * qemu
+ * apt-fast
+ * 
  
-When you Download LINUX! you're downloading an image freshly made for you, or downloading one yourself.  Images are a buck.  Let's see where this goes :).  
+When you Download LINUX! you're downloading an image freshly made for you, or downloading one yourself.  Images are a buck.  Let's see where this goes :).  For now, it's debian-based, but this could change as we move forward.  We're aiming to make this the most portable linux distro with a full GUI out there.  It can also be the most portable distro without a full GUI.  
