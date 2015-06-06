@@ -11,8 +11,8 @@ Seriously. anyone who has worked on both Linux and Macintosh knows the awful tru
  * We're going to configure one and only one desktop environment for this distro.  If you want to fork and do your own, well we are very happy for you to do that.  Right now, it looks to be GNOME, but Pantheon isn't looking half-bad, either.
  * We're going to enforce a consistent set of programming and design principles across the board for the UI, enabling the sort of efficiency seen in Apple's Cocoa.
  * Principles of conflict:
- 1 If it ain't broke, don't fix it
- 2 Bias towards the new and well designed.  
+  1 If it ain't broke, don't fix it
+  2 Bias towards the new and well designed.  
  * This distribution will cost money in binary form, because it is Linux for getting work done.  
  * We will support a positive, helpful community with the goal of building a community famed for its openness, cheeriness, and supportive nature.  
  * Devs will get paid.  The distro itself will never keep more money in its coffers than is needed to ensure that it has enough "brain resources" to keep up with package updates and community maintenance.  If it is possible, we will pay developers higher than industry standard wages, and boast about it.  If you do a little work on our distro, expect a little money, and an ongoing crypto-asset backed stake (ownership + voting) in the project.  It's our way of saying "why yes, we do know where code comes from!"  If for some reason a dev doesn't want to be paid, their payment will be sent directly to their choice of aligned advocacy organization.
