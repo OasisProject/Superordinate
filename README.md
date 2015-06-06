@@ -1,6 +1,8 @@
 #Superordinate
 A serious attempt at defining a set of standards for a high-performing, up to date and highly compatible paid binary linux distribution.  
 
+BTC: 1MtPZ2Q7ELJNVZcVHkyuuGuN1WQufwRfU7
+Note: first 5 donors of any amount will get a lifetime subscription to Superordinate, which we will to develop continuously for a mighty long time indeed.  Refund if nothing posted here within 30 days of the first donation.  
 
 ##Linux Sucks!
 Seriously. anyone who has worked on both Linux and Macintosh knows the awful truth:  Linux is terrible on the desktop, even or perhaps especially for developers.  In addition to being a linux distribution, this is also a set of guidelines for developers who want to follow standards for creation on the linux desktop.  There's a bias towards the gnome way around here, but we're open to anyone who is willing to take the lead in the standards department.  We're favoring new packages, such as rust and go system utilities, and shipping with the very latest docker.  
